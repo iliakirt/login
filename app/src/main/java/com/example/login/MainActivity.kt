@@ -28,9 +28,6 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "AMKA must be 11 digits", Toast.LENGTH_LONG).show()
         }
 
-
-
-
     }
 }
 
